@@ -83,7 +83,7 @@ import time
 try:
     for video in videos_id:
         i+=1
-        insert_comment(youtube, channels_id[i],[videos_id[i]], "Is there anyone for friendship. I want to find friends. Kindly visit my channel.")
+        insert_comment(youtube, channels_id[i],[videos_id[i]], "Testing testing ...")
         time.sleep(3)
 except:
     pass
